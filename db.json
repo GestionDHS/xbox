@@ -1,391 +1,151 @@
 {
     "games": [
-      {
-          "name": "A Boy and His Blob",
-          "genre": [
-              "Platform",
-              "puzzle"
-          ]
-      },
-      {
-          "name": "A Hat in Time",
-          "genre": [
-              "Platform"
-          ]
-      },
-      {
-          "name": "A Hole New World",
-          "genre": [
-              "Platform"
-          ]
-      },
-      {
-          "name": "The Adventure Pals",
-          "genre": [
-              "Platform",
-              "role-playing"
-          ]
-      },
-      {
-          "name": "The Amazing Spider-Man 2",
-          "genre": [
-              "Action-adventure"
-          ]
-      },
-      {
-          "name": "The Banner Saga",
-          "genre": [
-              "Tactical role-playing"
-          ]
-      },
-      {
-          "name": "Batman: Arkham Knight",
-          "genre": [
-              "Action-adventure"
-          ]
-      },
-      {
-          "name": "Batman: Return to Arkham",
-          "genre": [
-              "Action-adventure"
-          ]
-      },
-      {
-          "name": "Batman: The Enemy Within",
-          "genre": [
-              "Graphic adventure"
-          ]
-      },
-      {
-          "name": "Call of Cthulhu: The Official Video Game",
-          "genre": [
-              "Adventure",
-              "survival horror"
-          ]
-      },
-      {
-          "name": "Call of Duty: Advanced Warfare",
-          "genre": [
-              "First-person shooter"
-          ]
-      },
-      {
-          "name": "Call of Duty: Black Ops III",
-          "genre": [
-              "First-person shooter"
-          ]
-      },
-      {
-          "name": "D/Generation HD",
-          "genre": [
-              "Action-adventure"
-          ]
-      },
-      {
-          "name": "D4: Dark Dreams Don't Die",
-          "genre": [
-              "Action-adventure",
-              "mystery"
-          ]
-      },
-      {
-          "name": "Dad Beat Dads",
-          "genre": [
-              "Action-adventure"
-          ]
-      },
-      {
-          "name": "EA Sports UFC",
-          "genre": [
-              "Fighting",
-              "Sports"
-          ]
-      },
-      {
-          "name": "F1 2015",
-          "genre": [
-              "Sim racing"
-          ]
-      },
-      {
-          "name": "F1 2016",
-          "genre": [
-              "Sim racing"
-          ]
-      },
-      {
-          "name": "F1 2017",
-          "genre": [
-              "Sim racing"
-          ]
-      },
-      {
-          "name": "Game of Thrones: Season One",
-          "genre": [
-              "Graphic adventure"
-          ]
-      },
-      {
-          "name": "Gears 5",
-          "genre": [
-              "Third-person shooter"
-          ]
-      },
-      {
-          "name": "Gears of War 4",
-          "genre": [
-              "Third-person shooter"
-          ]
-      },
-      {
-          "name": "Habitat: A Thousand Generations in Orbit",
-          "genre": [
-              "Strategy"
-          ]
-      },
-      {
-          "name": "Halo: Spartan Assault",
-          "genre": [
-              "Top-down",
-              "shooter"
-          ]
-      },
-      {
-          "name": "Immortal: Unchained",
-          "genre": [
-              "Shooter",
-              "role-playing"
-          ]
-      },
-      {
-          "name": "Insane Robots",
-          "genre": [
-              "Roguelike"
-          ]
-      },
-      {
-          "name": "Jet Car Stunts",
-          "genre": [
-              "Racing"
-          ]
-      },
-      {
-          "name": "Jotun: Valhalla Edition",
-          "genre": [
-              "Action-adventure"
-          ]
-      },
-      {
-          "name": "Kalimba!",
-          "genre": [
-              "Platformer",
-              "Puzzle",
-              "Side-scroller"
-          ]
-      },
-      {
-          "name": "Keep Talking and Nobody Explodes",
-          "genre": [
-              "Party"
-          ]
-      },
-      {
-          "name": "KickBeat: Special Edition",
-          "genre": [
-              "Music",
-              "Rhythm"
-          ]
-      },
-      {
-          "name": "LA Cops",
-          "genre": [
-              "Action"
-          ]
-      },
-      {
-          "name": "L.A. Noire",
-          "genre": [
-              "Action-adventure"
-          ]
-      },
-      {
-          "name": "La-Mulana 2",
-          "genre": [
-              "Platform"
-          ]
-      },
-      {
-          "name": "Mable & the Wood",
-          "genre": [
-              "Metroidvania"
-          ]
-      },
-      {
-          "name": "Madden NFL 16",
-          "genre": [
-              "Sports"
-          ]
-      },
-      {
-          "name": "Naruto: Ultimate Ninja Storm",
-          "genre": [
-              "Fighting"
-          ]
-      },
-      {
-          "name": "Octahedron",
-          "genre": [
-              "Platform"
-          ]
-      },
-      {
-          "name": "Octodad: Dadliest Catch",
-          "genre": [
-              "Platform"
-          ]
-      },
-      {
-          "name": "Oddworld: New 'n' Tasty!",
-          "genre": [
-              "Puzzle",
-              "platformer"
-          ]
-      },
-      {
-          "name": "Payday 2: Crimewave Edition",
-          "genre": [
-              "First-person shooter",
-              "tactical shooter"
-          ]
-      },
-      {
-          "name": "Peggle 2",
-          "genre": [
-              "Puzzle"
-          ]
-      },
-      {
-          "name": "Pengame",
-          "genre": [
-              "Action",
-              "platformer"
-          ]
-      },
-      {
-          "name": "Quantum Break",
-          "genre": [
-              "Third-person shooter"
-          ]
-      },
-      {
-          "name": "R.B.I. Baseball 16",
-          "genre": [
-              "Sports"
-          ]
-      },
-      {
-          "name": "Saints Row: Gat out of Hell",
-          "genre": [
-              "action-adventure"
-          ]
-      },
-      {
-          "name": "Saints Row IV: Re-Elected",
-          "genre": [
-              "action-adventure"
-          ]
-      },
-      {
-          "name": "Ultimate Chicken Horse",
-          "genre": [
-              "Platformer"
-          ]
-      },
-      {
-          "name": "Ultratron",
-          "genre": [
-              "Platformer"
-          ]
-      },
-      {
-          "name": "Unbox: Newbie's Adventure",
-          "genre": [
-              "Platformer"
-          ]
-      },
-      {
-          "name": "Valfaris",
-          "genre": [
-              "Platformer"
-          ]
-      },
-      {
-          "name": "Valiant Hearts: The Great War",
-          "genre": [
-              "Puzzle",
-              "adventure"
-          ]
-      },
-      {
-          "name": "Valkyria Chronicles 4",
-          "genre": [
-              "Tactical role-playing"
-          ]
-      },
-      {
-          "name": "Warriors Orochi 3 Ultimate",
-          "genre": [
-              "Hack and slash"
-          ]
-      },
-      {
-          "name": "Warriors Orochi 4",
-          "genre": [
-              "Hack and slash"
-          ]
-      },
-      {
-          "name": "Watch Dogs",
-          "genre": [
-              "Action-adventure",
-              "Stealth",
-              "Open world"
-          ]
-      },
-      {
-          "name": "X-Morph: Defense",
-          "genre": [
-              "tower defense"
-          ]
-      },
-      {
-          "name": "Xenon Valkyrie+",
-          "genre": [
-              "Platformer",
-              "role-playing"
-          ]
-      },
-      {
-          "name": "Yakuza: Kiwami",
-          "genre": [
-              "Action-adventure",
-              "beat 'em up",
-              "action role-playing"
-          ]
-      },
-      {
-          "name": "Zombie Army Trilogy",
-          "genre": [
-              "Tactical shooter",
-              "Stealth"
-          ]
-      },
-      {
-          "name": "Zombie Driver: Ultimate Edition",
-          "genre": [
-              "Action-adventure",
-              "Racing"
-          ]
-      }
-  ]
+        {
+            "name": "A Hat in Time",
+            "genre": [
+                "Platform"
+            ]
+        },
+        {
+            "name": "Batman: Arkham Knight",
+            "genre": [
+                "Action-adventure"
+            ]
+        },
+        {
+            "name": "Call of Duty: Advanced Warfare",
+            "genre": [
+                "First-person shooter"
+            ]
+        },
+        {
+            "name": "Dad Beat Dads",
+            "genre": [
+                "Action-adventure"
+            ]
+        },
+        {
+            "name": "EA Sports UFC",
+            "genre": [
+                "Fighting",
+                "Sports"
+            ]
+        },
+        {
+            "name": "F1 2017",
+            "genre": [
+                "Sim racing"
+            ]
+        },
+        {
+            "name": "Game of Thrones: Season One",
+            "genre": [
+                "Graphic adventure"
+            ]
+        },
+        {
+            "name": "Halo: Spartan Assault",
+            "genre": [
+                "Top-down",
+                "shooter"
+            ]
+        },
+        {
+            "name": "Immortal: Unchained",
+            "genre": [
+                "Shooter",
+                "role-playing"
+            ]
+        },
+        {
+            "name": "Jet Car Stunts",
+            "genre": [
+                "Racing"
+            ]
+        },
+        {
+            "name": "Madden NFL 16",
+            "genre": [
+                "Sports"
+            ]
+        },
+        {
+            "name": "Naruto: Ultimate Ninja Storm",
+            "genre": [
+                "Fighting"
+            ]
+        },
+        {
+            "name": "Octahedron",
+            "genre": [
+                "Platform"
+            ]
+        },
+        {
+            "name": "Payday 2: Crimewave Edition",
+            "genre": [
+                "First-person shooter",
+                "tactical shooter"
+            ]
+        },
+        {
+            "name": "Quantum Break",
+            "genre": [
+                "Third-person shooter"
+            ]
+        },
+        {
+            "name": "R.B.I. Baseball 16",
+            "genre": [
+                "Sports"
+            ]
+        },
+        {
+            "name": "Saints Row: Gat out of Hell",
+            "genre": [
+                "action-adventure"
+            ]
+        },
+        {
+            "name": "Ultratron",
+            "genre": [
+                "Platformer"
+            ]
+        },
+        {
+            "name": "Unbox: Newbie's Adventure",
+            "genre": [
+                "Platformer"
+            ]
+        },
+        {
+            "name": "Valfaris",
+            "genre": [
+                "Platformer"
+            ]
+        },
+        {
+            "name": "Watch Dogs",
+            "genre": [
+                "Action-adventure",
+                "Stealth",
+                "Open world"
+            ]
+        },
+        {
+            "name": "Yakuza: Kiwami",
+            "genre": [
+                "Action-adventure",
+                "beat 'em up",
+                "action role-playing"
+            ]
+        },
+        {
+            "name": "Zombie Driver: Ultimate Edition",
+            "genre": [
+                "Action-adventure",
+                "Racing"
+            ]
+        }
+    ]
   }
